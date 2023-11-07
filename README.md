@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamda</h1>
-<h3 align="center">A passionate software engineering student from Tunisia</h3>
+<h3 align="center">A passionate cybersecurity student from Tunisia</h3>
 
 - 🔭 I’m currently working on [qtile config](https://github.com/Hamda345/qtile_config)
 
